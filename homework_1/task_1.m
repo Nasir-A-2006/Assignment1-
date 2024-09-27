@@ -1,5 +1,5 @@
 % Author Name: Nasir Ashley
-% Email: [Your Email]
+% Email: ashley59@students.students.edu
 % Course: MATLAB Programming - Fall 2024
 % Assignment: Assignment 2
 % Task: [Task Name]
