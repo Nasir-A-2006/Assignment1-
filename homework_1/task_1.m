@@ -2,8 +2,8 @@
 % Email: ashley59@students.students.edu
 % Course: MATLAB Programming - Fall 2024
 % Assignment: Assignment 2
-% Task: [Task Name]
-% Date: [Submission Date]
+% Task: MATLAB Homework 1: Introduction to Programming Concepts
+% Date: 9/27/24
 
 celsius = input('Enter the temp in celsius:');
 
